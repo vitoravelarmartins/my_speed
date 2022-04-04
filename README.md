@@ -1,16 +1,10 @@
 # my_speed
 
-A new Flutter project.
+Este projeto está focado em coletar a velocidade dos parâmetros de GPS, utilizando plugin geolocator.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Duvidas
 
-A few resources to get you started if this is your first Flutter project:
+Para qualquer dúvida sobre esse projeto acesse, o artigo:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Capturar Velocidade] app](https://medium.com/@vitor.martins_62136/flutter-como-capturar-os-dados-de-velocidade-a-partir-do-gps-do-aparelho-fdedb5da361b)
